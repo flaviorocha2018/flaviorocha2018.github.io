@@ -1,0 +1,71 @@
+
+ body {
+            background-color: #9D9D80;
+            padding: 3%;
+        }
+        h1 {
+            font-size: 30px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: 600;
+            color: #2E2E3A;
+            text-align: center;
+        }
+        h2 {
+            font-size: 16px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: 600;
+            font-style: italic;
+            color: #48485B;
+        }
+        h3 {
+            font-size: 18px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: 600;
+            color: #D64933;
+        }
+        h4 {
+            font-size: 15px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: 600;
+        }
+        
+        .img01{
+            float: left;
+            height: 280px;
+            padding: 10px;
+            background-color: bisque;
+        }
+        p {
+            font-size: 16px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-weight: 300;
+        }
+
+            ol{
+                font-size: 15px;
+                font-family: 'Courier New', Courier, monospace;
+                font-weight: 400;
+            }
+
+            ul{
+                font-size: 14px;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                font-weight: 400;
+            }
+
+
+            .image-container{
+                height: 300px;
+                position: relative;
+    
+            }
+
+            .description{
+                position: absolute;
+                margin-left: 330px;
+                margin-top: 20px;
+            }
+            #soft-skills{
+                color: #121241;
+            }
+           
